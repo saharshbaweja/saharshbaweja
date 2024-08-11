@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋 I'm Saharsh</h1>
 
-<h2 align="center">[![](https://visitcount.itsvg.in/api?id=saharshbaweja&icon=0&color=0)](https://visitcount.itsvg.in)</h2>
-
 # 💫 About Me:
 I'm a passionate programmer and entrepreneur currently in the Atlanta Metropolitan area. I love tackling creative challenges and creating products that have a tangible impact and improve the lives of others. I have prior experience with UI/UX designing for mobile apps on the iOS and Android platforms, as well as launching several web applications. I'm constantly looking for new opportunities to explore new fields and push my boundaries. I am currently pursuing an undergraduate degree majoring in Computer Science with a minor in Economics.
 
@@ -41,6 +39,8 @@ Libraries/Frameworks:
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white) 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 ![Drools](https://img.shields.io/badge/Drools-%23FF6347.svg?style=for-the-badge&logo=drools&logoColor=white)
+
+[![](https://visitcount.itsvg.in/api?id=saharshbaweja&icon=0&color=0)](https://visitcount.itsvg.in)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=saharshbaweja&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
