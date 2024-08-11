@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋 I'm Saharsh</h1>
 
+---
+[![](https://visitcount.itsvg.in/api?id=saharshbaweja&icon=0&color=0)](https://visitcount.itsvg.in)
+
 # 💫 About Me:
 I'm a passionate programmer and entrepreneur currently in the Atlanta Metropolitan area. I love tackling creative challenges and creating products that have a tangible impact and improve the lives of others. I have prior experience with UI/UX designing for mobile apps on the iOS and Android platforms, as well as launching several web applications. I'm constantly looking for new opportunities to explore new fields and push my boundaries. I am currently pursuing an undergraduate degree majoring in Computer Science with a minor in Economics.
 
@@ -45,10 +48,5 @@ Libraries/Frameworks:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=saharshbaweja&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=saharshbaweja&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=saharshbaweja&theme=dark&no-frame=true&no-bg=true&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=saharshbaweja&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
