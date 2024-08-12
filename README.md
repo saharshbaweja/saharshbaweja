@@ -40,12 +40,8 @@ Libraries/Frameworks:
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 ![Drools](https://img.shields.io/badge/Drools-%23FF6347.svg?style=for-the-badge&logo=drools&logoColor=white)
 
-[![](https://visitcount.itsvg.in/api?id=saharshbaweja&icon=0&color=0)](https://visitcount.itsvg.in)
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=saharshbaweja&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=saharshbaweja&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=saharshbaweja&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
