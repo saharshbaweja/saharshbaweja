@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Saharsh</h1>
 
 # 💫 About Me:
-I'm a passionate programmer and entrepreneur currently in the Atlanta Metropolitan area. I love tackling creative challenges and creating products that have a tangible impact and improve the lives of others. I have prior experience with UI/UX designing for mobile apps on the iOS and Android platforms, as well as launching several web applications. I'm constantly looking for new opportunities to explore new fields and push my boundaries. I am currently pursuing an undergraduate degree majoring in Computer Science with a minor in Economics.
+I'm a passionate programmer and student at Goergia Tech. I love tackling creative challenges and creating products that have a tangible impact and improve the lives of others. I have prior experience with UI/UX designing for mobile apps on the iOS and Android platforms, as well as launching several web applications. I'm constantly looking for new opportunities to explore new fields and push my boundaries. I am currently pursuing an undergraduate degree in industrial engineering with a minor in cs.
 
 ## 🚀 What I'm Up To
 
